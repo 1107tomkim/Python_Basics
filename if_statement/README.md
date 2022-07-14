@@ -1,0 +1,1 @@
+This file is for the if statement functions and consist of if, else, and beyond
