@@ -8,3 +8,5 @@ print(cube_it(5)) # Calling the function and printing it.
 # Setting a variable = to the function result and printing it
 result = cube_it(4)
 print(result)
+
+# Keep noted, after the return statement, any code underneath within the function will not work.
