@@ -41,7 +41,29 @@ print("Solution to floor division function when num1 = 5 and num2 = 2 is: " + st
 
 #Assignment Operators
 # =   -> Setting something equal to something. EX -> x = 5
+my_age = 25
+print(my_age)
+
 # +=  -> Adding 
-# -+  ->
+going_up = 1
+print(going_up)
+going_up += 1
+print(going_up)
+
+# -=  ->
+going_down = 10
+print(going_down)
+going_down -= 1
+print(going_down)
+
 # *=  ->
+multi_myself = 2
+print(multi_myself)
+multi_myself *= 2
+print(multi_myself)
+
 # /=  ->
+divide_myself = 10
+print(divide_myself)
+divide_myself /= 2
+print(divide_myself)
