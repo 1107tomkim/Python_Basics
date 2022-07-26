@@ -8,3 +8,7 @@ for player in players: # player is not declared and it can be called whatever yo
 
 for anything in players:
     print(player)
+
+
+for anything in players:
+    print(anything)
