@@ -4,4 +4,4 @@ players = "I am a player!" # This is what we are going to iterate through
 
 # Basic for loop
 for player in players: # player is not declared and it can be called whatever you prefer
-    print(player)
+    print(player) # Will return the whole string thats been printed out character at a time
