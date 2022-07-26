@@ -2,5 +2,6 @@
 
 players = "I am a player!" # This is what we are going to iterate through
 
+# Basic for loop
 for player in players:
     print(player)
